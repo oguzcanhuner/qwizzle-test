@@ -17,14 +17,11 @@ What we're looking for is the following:
 - title font: museo-sans-round
 - title font size: 40px
 - title colour: #5b4dc8
-
 - subtitle font: museo-sans-round
 - subtitle font size: 26px
 - subtitle colour: #5b4dc8
-
 - body font: proxima-nova-soft
 - body font size: 16px
-
 - icon width: 122px
 
 For this exercise, it's not important for you to achieve pixel perfection. You can decide on your own values for the grid width and spacing.
